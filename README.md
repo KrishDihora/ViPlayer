@@ -1,3 +1,4 @@
+# ViPlayer
 App is a simple Demo of YouTube embed player without having options of sharing links , annotation , subtitle, stable volume, other option in more option.                                
 
 It is useful to watch YouTube video with simple player.                                                                                                                                                    
