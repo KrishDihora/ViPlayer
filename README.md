@@ -10,4 +10,4 @@ Player is edited through JavaScript in Android Studio.
 If you want the code of this edited YoutTube embed player, reach out through mail or LinkedIn. 
 
 ## Mockups
-<iframe src="mockup/ViPlayer.pdf" width="90%" height="500px"></iframe>
+[ViPlayer PDF](https://drive.google.com/file/d/1LFpCDSDKhPPv6LEABtgCanBqV1N1D8FN/view?usp=drive_link)
