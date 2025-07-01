@@ -7,4 +7,7 @@ This is an Demo Android Application.
 
 Player is edited through JavaScript in Android Studio.                                                                                                                                                               
 
-If you want the code of this edited YoutTube embed player, reach out through mail or LinkedIn.                                                                                                            
+If you want the code of this edited YoutTube embed player, reach out through mail or LinkedIn. 
+
+## Mockups
+[ViPlayer](mockup/ViPlayer.pdf)
